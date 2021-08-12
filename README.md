@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Senaa
+- 👋 Hi, I’m @SenaaAbdall
 - 👀 I’m interested in software & programming 
 - 🌱 I’m currently self learning on edux CS50 
 - 💞️ I’m looking to collaborate on here
